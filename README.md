@@ -1,5 +1,5 @@
 ### Hello, my name is Danny 👋
-#### I'm a fullstack developer.
+#### I'm a front-end developer.
 - 🔭 I'm currently working on a spotify playlist creator web app, with wich you will be able to create and push a playlist to your spotify account.
 - 🌱 I'm also in a studentship as computer science expert - system integration.
 #### I'm capable to work with the following languages
